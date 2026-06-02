@@ -16,7 +16,7 @@
 
 * DHIRAJ OS Portfolio Website
 * Nashik MahaKumbh Mela Website Management 2027
-* Smart Crowd Management System
+* Smart Parking Management System
 * Stock Price Trend Prediction
 * Movie Recommendation System
 
